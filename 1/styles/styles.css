@@ -3,21 +3,13 @@ h1 {
     darkorange;
     text-align: center;
 }
-h3 {
-    color: limegreen;
-}
 p {
   color: dodgerblue;
 }
 html {
-  font-size: 15px; /* px means 'pixels': the base font size is now 10 pixels high  */
-  font-family: open sans; /* this should be the rest of the output you got from Google fonts */
+  font-size: 15px;
+  font-family: cursive;
 }
-h2 {
-    color: 
-    gold;
-}
-h4 {
-    color:
-    gray;
+h3  {
+color: gold
 }
